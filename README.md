@@ -217,7 +217,7 @@ italy-visa-monitor/
 ├── .env                   # 機密設定（不 commit）
 ├── .env.example           # 設定範本
 ├── .gitignore
-├── CLAUDE.md              # 專案說明與開發規範
+├── README.md              # 專案說明與開發規範
 ├── screenshots/           # 每次檢查截圖（不 commit）
 └── logs/                  # 執行 log（不 commit）
 ```
