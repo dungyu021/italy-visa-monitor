@@ -1,6 +1,6 @@
 # 🇮🇹 Italy Visa Appointment Monitor
 
-自動監測義大利簽證預約系統 [prenotami.esteri.it](https://prenotami.esteri.it/)，當有人取消釋出時段時，立即發送 Telegram 通知讓你手動完成預約。
+自動監測義大利簽證預約系統 [prenotami.esteri.it](https://prenotami.esteri.it/)，定期自動登入確認可預約時段，若可預約則發送 Telegram 通知讓你手動完成預約。
 
 ---
 
