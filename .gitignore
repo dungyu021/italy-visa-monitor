@@ -1,0 +1,21 @@
+# 環境變數（含密碼、護照號碼，絕對不能 commit）
+.env
+
+# Playwright 截圖和 logs（含個資、登入畫面）
+screenshots/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
